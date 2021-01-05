@@ -21,7 +21,7 @@
   "homepage": "https://github.com/jekanok/parsing_ins#readme",
   "dependencies": {
     "@kamilic-pkg/canvas-textbox": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "canvas": "^2.5.0",
     "cheerio": "^1.0.0-rc.3",
